@@ -1,5 +1,5 @@
 # MySQL_Library
-
+[详情见wiki](https://github.com/GeHaha/MySQL_Library/wiki)
 ## MySQL简介
 
 MySQL 是最流行的关系型数据库管理系统，在WEB应用方面 MySQL 是最好的RDBMS(Relational Database Management System：关系数据库管理系统)应用软件之一。
